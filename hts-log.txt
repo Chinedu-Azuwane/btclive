@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Mar 2024 11:39:02 at https://www.bitcoinlives.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bitcoinlives.app/ -O1 "C:\Users\hp\Desktop\califold\btclive" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic/300/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin-ext/300/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic-ext/300/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin/300/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/vietnamese/300/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin/400/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/vietnamese/400/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic/400/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin-ext/400/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic-ext/400/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic/500/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/vietnamese/500/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin-ext/500/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic-ext/500/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin/500/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic/600/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin/600/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/latin-ext/600/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/cyrillic-ext/600/normal.woff2
+11:40:22	Warning: 	File not parsed, looks like binary: https://www.bitcoinlives.app/cf-fonts/s/montserrat/5.0.16/vietnamese/600/normal.woff2
+11:40:40	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/GET (from https://www.bitcoinlives.app/pricing-plans-3rdjt74jfkj3)
+11:49:43	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/span.step (from https://www.bitcoinlives.app/js/core/ap.js)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/popper.js (from https://www.bitcoinlives.app/vendors/js/vendors.min.js)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/string (from https://www.bitcoinlives.app/vendors/js/media/plyr.js)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/config.tagUrl (from https://www.bitcoinlives.app/vendors/js/media/plyr.js)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/download (from https://www.bitcoinlives.app/vendors/js/media/plyr.js)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/input (from https://www.bitcoinlives.app/vendors/js/media/plyr.js)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/fonts/font-awesome/css/fontawesome-webfont3e6e.html?v=4.7.0 (from https://www.bitcoinlives.app/vendors/css/vendors.min.css)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/fonts/font-awesome/css/fontawesome-webfontd41d.html? (from https://www.bitcoinlives.app/vendors/css/vendors.min.css)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/fonts/font-awesome/css/fontawesome-webfont.ttf?v=4.7.0 (from https://www.bitcoinlives.app/vendors/css/vendors.min.css)
+11:49:46	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/fonts/font-awesome/css/fontawesome-webfont.svg?v=4.7.0 (from https://www.bitcoinlives.app/vendors/css/vendors.min.css)
+11:50:04	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/You must include the utils.js file before tether.js (from https://www.bitcoinlives.app/vendors/js/extensions/tether.min.js)
+11:50:04	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/css/fonts/font-awesome/css/fontawesome-webfont3e6e.html?v=4.7.0 (from https://www.bitcoinlives.app/css/vendors.min.css)
+11:50:04	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/css/fonts/font-awesome/css/fontawesome-webfontd41d.html? (from https://www.bitcoinlives.app/css/vendors.min.css)
+11:50:04	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/css/fonts/font-awesome/css/fontawesome-webfont.ttf?v=4.7.0 (from https://www.bitcoinlives.app/css/vendors.min.css)
+11:50:04	Error: 	"Not Found" (404) at link https://www.bitcoinlives.app/css/fonts/font-awesome/css/fontawesome-webfont.svg?v=4.7.0 (from https://www.bitcoinlives.app/css/vendors.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 2 seconds : 658 links scanned, 641 files written (37830180 bytes overall) [29597042 bytes received at 44708 bytes/sec], 12529225 bytes transferred using HTTP compression in 618 files, ratio 27%, 30.8 requests per connection
+(16 errors, 20 warnings, 0 messages)
